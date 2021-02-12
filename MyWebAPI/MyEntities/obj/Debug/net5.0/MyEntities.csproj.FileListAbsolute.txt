@@ -1,0 +1,5 @@
+C:\Users\murat\source\tryouts\core\MyWebAPI\MyEntities\obj\Debug\net5.0\MyEntities.csprojAssemblyReference.cache
+C:\Users\murat\source\tryouts\core\MyWebAPI\MyEntities\obj\Debug\net5.0\MyEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\tryouts\core\MyWebAPI\MyEntities\obj\Debug\net5.0\MyEntities.AssemblyInfoInputs.cache
+C:\Users\murat\source\tryouts\core\MyWebAPI\MyEntities\obj\Debug\net5.0\MyEntities.AssemblyInfo.cs
+C:\Users\murat\source\tryouts\core\MyWebAPI\MyEntities\obj\Debug\net5.0\MyEntities.csproj.CoreCompileInputs.cache

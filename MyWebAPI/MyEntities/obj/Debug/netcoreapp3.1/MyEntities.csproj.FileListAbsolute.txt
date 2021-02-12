@@ -1,0 +1,13 @@
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.exe
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.deps.json
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.runtimeconfig.json
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.runtimeconfig.dev.json
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.dll
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\bin\Debug\netcoreapp3.1\MyEntities.pdb
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.csprojAssemblyReference.cache
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.AssemblyInfoInputs.cache
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.AssemblyInfo.cs
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.csproj.CoreCompileInputs.cache
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.dll
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.pdb
+C:\User\Projeler\Mustafa\MyWebAPI\MyWebAPI\MyEntities\obj\Debug\netcoreapp3.1\MyEntities.genruntimeconfig.cache
